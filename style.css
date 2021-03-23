@@ -166,7 +166,7 @@ main {
     min-width: 235px;
     max-width: 500px;
     height: 360px;
-    margin-right: 80px;
+    margin: 0 48px;
     font-family: "inter", sans-serif;
 }
 .main-currency-table .currency-table--title {
